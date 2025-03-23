@@ -9,6 +9,21 @@
 
 ## About Laravel
 
+# Proyecto Laravel: Actividad-9
+
+Este proyecto Laravel implementa un sistema de autenticación que muestra una vista de "Landing Page" para usuarios invitados y un "Dashboard" para usuarios autenticados.
+
+## Características
+- Sistema de autenticación con Laravel Breeze
+- Redirección automática según estado de sesión
+- Barra de navegación dinámica
+
+## Instalación
+1. Clonar repositorio: https://github.com/AngelGallardo11/Actividad-9
+2. Instalar dependencias: composer install npm install
+3. Configura tu base de datos en `.env` y ejecuta: php artisan migrate
+4. Ejecuta el servidor: php artisan serve
+
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
